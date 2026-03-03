@@ -42,7 +42,7 @@ class MusicClient extends Client {
     );
 
     this.shoukaku.on("ready", (name) => {
-      console.log(`🎵 Np-Lavalink node READY: ${name}`);
+      console.log(`🎵 Lavalink node READY: ${name}`);
     });
 
     this.shoukaku.on("error", (name, error) => {
