@@ -35,8 +35,8 @@ class MusicClient extends Client {
       [
         {
           name: "main",
-          url: "localhost:2555",
-          auth: "nothinglovesakshi"
+          url: "zac.hidencloud.com :24577",
+          auth: "youshallnotpass"
         }
       ]
     );
